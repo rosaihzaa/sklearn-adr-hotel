@@ -19,4 +19,12 @@
           <td>Business Objective</td>
           <td>Memanfaatkan pola ADR untuk merancang strategi pemasaran yang lebih baik.</td>
       </tr>
+      <tr>
+        <td>Best Model</td>
+        <td>XGBoost Regressor</td>
+      </tr>
+      <tr>
+        <td>RMSE</td>
+        <td>15.12</td>
+      </tr>
   </table>
